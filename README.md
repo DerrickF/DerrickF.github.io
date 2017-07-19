@@ -1,32 +1,27 @@
-#Exemplar
+This theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/). Visit her website for more themes [http://themes.3rdwavemedia.com/](http://themes.3rdwavemedia.com/)
 
-This is my jekyll site template. Used for blog and project pages.
 
-#Getting Started
+I have made this into a Jekyll Theme.
+**Demo:** [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/)
 
-First, make sure you have the `jekyll` and `sass` gems installed. In your terminal run:
+The default theme would look like this
 
-    gem install jekyll
-    gem install sass
+![online cv Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme.png)
 
-You can optionally install the *bourbon* gem in order to update the Bourbon folder:
+The theme is responsive
 
-    gem install bourbon
-    cd _sass
-    bourbon install
+![online cv responsive Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-responsive-jekyll-theme.png)
 
-Start running Jekyll (defaults to port 4000) and watching Sass:
+There are 6 color schemes available
 
-    rake // 'rake watch' also works
+![online cv Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme-2.png)
 
-Before deploying your site, stop `rake watch` and run `rake generate` to generate a production-ready site (no Scss comments).
+## Installation
+* Fork the repository
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at https://username.github.io/online-cv/
 
-## Updating Bourbon
+[Watch my video on instlallation](https://www.youtube.com/embed/T2nx6tj-ZH4)
 
-In order to update the Bourbon folder:
 
-    cd _sass/
-    bourbon update
-    
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tybenz/exemplar/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com)
