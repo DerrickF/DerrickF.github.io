@@ -1,4 +1,4 @@
-title: Derrick Fink
-description: This is a github pages page
-show_downloads: false
-theme: jekyll-theme-slate
+pygments: true
+permalink: /post/:title
+exclude: ['Gemfile','Gemfile.lock','Rakefile','.git']
+paginate: 4
